@@ -1,7 +1,6 @@
 <template>
   <div class="horizontal panel1">
     <h1>Choices</h1>
-
   </div>
 </template>
 
